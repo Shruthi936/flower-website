@@ -24,7 +24,7 @@ PHP, and MySQL, the website allows users to browse a catalog of fresh flowers, a
 ### 📂 2. Installation
 
 1. **Extract the project**  
-   Place the `BloomCart` folder in your web server's root directory:
+   Place the folder in your web server's root directory:
    - For XAMPP: `htdocs/`
    - For WAMP: `www/`
 
