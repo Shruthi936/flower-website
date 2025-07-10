@@ -1,6 +1,7 @@
-#Online flower shop
+# Online flower shop
 This is a fully functional web-based shopping platform designed to simulate a real-world floral e-commerce experience. Built using HTML, CSS, JavaScript,
 PHP, and MySQL, the website allows users to browse a catalog of fresh flowers, add items to a cart, and proceed to checkout through a simple and intuitive interface.
+---
 ## 🌐 Features
 
 - 🏠 Home page with welcoming hero section
